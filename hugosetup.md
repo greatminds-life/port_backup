@@ -15,4 +15,4 @@ to run locally: http://localhost:1313/
 
 
 - install hugo as needed
-> hugo new site [youre site name]
+`hugo new site [youre site name]`
