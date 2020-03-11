@@ -10,6 +10,8 @@ hugo serve  --themesDir ../..
 to run locally: http://localhost:1313/
 
 
+https://dev.to/dgavlock/creating-a-hugo-site-on-github-pages-3cjo
+
 - install hugo as needed
 - sign up github
 - create a repo called [youre site name] with readme
