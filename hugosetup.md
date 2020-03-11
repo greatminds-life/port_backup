@@ -10,3 +10,9 @@ hugo serve  --themesDir ../..
 to run locally: http://localhost:1313/
 
 
+
+
+
+
+- install hugo as needed
+> hugo new site [youre site name]
